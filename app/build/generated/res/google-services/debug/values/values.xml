@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">168900334130-sge5avob1i3bvf9q9l5mb026pn3rk9qd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">168900334130</string>
+    <string name="google_api_key" translatable="false">AIzaSyA74T9iCe8Q45dV02PAXGFMKkbUmGIt5w0</string>
+    <string name="google_app_id" translatable="false">1:168900334130:android:e7b775a2b5a8287e93622b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA74T9iCe8Q45dV02PAXGFMKkbUmGIt5w0</string>
+    <string name="google_storage_bucket" translatable="false">ergasia-2-f1ae1.appspot.com</string>
+    <string name="project_id" translatable="false">ergasia-2-f1ae1</string>
+</resources>

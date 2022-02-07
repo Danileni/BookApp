@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.4203125" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/drawable/border.xml" value="0.38" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/drawable/btn_bg_detailed.xml" value="0.38" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/drawable/edittext2_bg.xml" value="0.38" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.4203125" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.4203125" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.4203125" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/drawable/ic_menu_camera.xml" value="0.201" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.201" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.4203125" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/drawable/side_nav_bar.xml" value="0.3335" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/activity_detailed.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/activity_home.xml" value="0.4005208333333333" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/activity_home_bookstore.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/activity_login_user.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/activity_main.xml" value="0.39591836734693875" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/activity_nav_category.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/activity_register_user.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/activity_view_all.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/app_bar_main.xml" value="0.4005208333333333" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/content_main.xml" value="0.4" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/fragment_category.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/fragment_dashboard.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/fragment_gallery.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/fragment_home.xml" value="0.4" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/fragment_my.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/fragment_my_cart.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/fragment_my_orders.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/fragment_notifications.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/fragment_offers.xml" value="0.4" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/fragment_profile.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/fragment_slideshow.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/home_cat_books.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/my_book_cart.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/nav_cat_book.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/nav_cat_profile.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/nav_category_detailed_book.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/nav_header_main.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/popular_books.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/recommended_books.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/layout/view_all_books.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/menu/activity_main_drawer.xml" value="0.4" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/menu/main.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/HPoly.DESKTOP-NR409IG/AndroidStudioProjects/ergasia_2/app/src/main/res/menu/main_activity2.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,262 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hpoly.ergasia_2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="27"
+8-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:8:5-45:19
+15        android:allowBackup="true"
+15-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\65db87689b713ce8712822713c7df8f0\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:10:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:11:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.Ergasia_2" >
+24-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:14:9-47
+25        <activity
+25-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:15:9-17:40
+26            android:name="com.hpoly.ergasia_2.DetailedActivity"
+26-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:16:13-45
+27            android:exported="false" />
+27-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:17:13-37
+28        <activity
+28-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:18:9-20:40
+29            android:name="com.hpoly.ergasia_2.ViewAllActivity"
+29-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:19:13-44
+30            android:exported="false" />
+30-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:20:13-37
+31        <activity
+31-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:21:9-25:66
+32            android:name="com.hpoly.ergasia_2.MainActivity"
+32-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:22:13-41
+33            android:exported="false"
+33-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:23:13-37
+34            android:label="@string/title_activity_main"
+34-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:24:13-56
+35            android:theme="@style/Theme.Ergasia_2.NoActionBar" />
+35-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:25:13-63
+36        <activity
+36-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:26:9-34:20
+37            android:name="com.hpoly.ergasia_2.HomeActivity"
+37-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:27:13-41
+38            android:exported="true" >
+38-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:28:13-36
+39            <intent-filter>
+39-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:29:13-33:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:30:17-69
+40-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:30:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:32:17-77
+42-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:32:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:35:9-37:40
+46            android:name="com.hpoly.ergasia_2.RegisterUser"
+46-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:36:13-41
+47            android:exported="false" />
+47-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:37:13-37
+48        <activity
+48-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:38:9-40:39
+49            android:name="com.hpoly.ergasia_2.LoginUser"
+49-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:39:13-38
+50            android:exported="true" />
+50-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:40:13-36
+51
+52        <meta-data
+52-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:42:9-44:57
+53            android:name="preloaded_fonts"
+53-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:43:13-43
+54            android:resource="@array/preloaded_fonts" />
+54-->C:\Users\HPoly.DESKTOP-NR409IG\AndroidStudioProjects\ergasia_2\app\src\main\AndroidManifest.xml:44:13-54
+55
+56        <activity
+56-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+57            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+57-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+58            android:excludeFromRecents="true"
+58-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+59            android:exported="true"
+59-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+60            android:launchMode="singleTask"
+60-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+61            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+61-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+62            <intent-filter>
+62-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+63                <action android:name="android.intent.action.VIEW" />
+63-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+63-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+64
+65                <category android:name="android.intent.category.DEFAULT" />
+65-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+65-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+66                <category android:name="android.intent.category.BROWSABLE" />
+66-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+66-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+67
+68                <data
+68-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+69                    android:host="firebase.auth"
+69-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+70                    android:path="/"
+70-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+71                    android:scheme="genericidp" />
+71-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+72            </intent-filter>
+73        </activity>
+74        <activity
+74-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+75            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+75-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+76            android:excludeFromRecents="true"
+76-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+77            android:exported="true"
+77-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+78            android:launchMode="singleTask"
+78-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+79            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+79-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+80            <intent-filter>
+80-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+81                <action android:name="android.intent.action.VIEW" />
+81-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+81-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+82
+83                <category android:name="android.intent.category.DEFAULT" />
+83-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+83-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+84                <category android:name="android.intent.category.BROWSABLE" />
+84-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+84-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+85
+86                <data
+86-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+87                    android:host="firebase.auth"
+87-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+88                    android:path="/"
+88-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+89                    android:scheme="recaptcha" />
+89-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+90            </intent-filter>
+91        </activity>
+92
+93        <service
+93-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+94            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+94-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+95            android:enabled="true"
+95-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+96            android:exported="false" >
+96-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+97            <intent-filter>
+97-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+98                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+98-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+98-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+99
+100                <category android:name="android.intent.category.DEFAULT" />
+100-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+100-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+101            </intent-filter>
+102        </service>
+103        <service
+103-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+104            android:name="com.google.firebase.components.ComponentDiscoveryService"
+104-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:75:13-84
+105            android:directBootAware="true"
+105-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\616bad4dae1246af5bc173e4ab40b872\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+106            android:exported="false" >
+106-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+107            <meta-data
+107-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+108                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+108-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+109                android:value="com.google.firebase.components.ComponentRegistrar" />
+109-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\f7430277adef468e8c8c0a4067cc9909\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+110            <meta-data
+110-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\ae81c0baa50ed5dfcf4364d557af3324\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:20:13-22:85
+111                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+111-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\ae81c0baa50ed5dfcf4364d557af3324\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:21:17-111
+112                android:value="com.google.firebase.components.ComponentRegistrar" />
+112-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\ae81c0baa50ed5dfcf4364d557af3324\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:22:17-82
+113        </service>
+114
+115        <activity
+115-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\517f086f204c0d272b769b1a5b511ad6\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+116            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+116-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\517f086f204c0d272b769b1a5b511ad6\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+117            android:exported="false"
+117-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\517f086f204c0d272b769b1a5b511ad6\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+118            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+118-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\517f086f204c0d272b769b1a5b511ad6\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+119
+120        <provider
+120-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\616bad4dae1246af5bc173e4ab40b872\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+121            android:name="com.google.firebase.provider.FirebaseInitProvider"
+121-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\616bad4dae1246af5bc173e4ab40b872\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+122            android:authorities="com.hpoly.ergasia_2.firebaseinitprovider"
+122-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\616bad4dae1246af5bc173e4ab40b872\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+123            android:directBootAware="true"
+123-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\616bad4dae1246af5bc173e4ab40b872\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+124            android:exported="false"
+124-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\616bad4dae1246af5bc173e4ab40b872\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+125            android:initOrder="100" />
+125-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\616bad4dae1246af5bc173e4ab40b872\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+126
+127        <meta-data
+127-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\4575cf2e93c1388c8d7520eeff097262\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+128            android:name="com.google.android.gms.version"
+128-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\4575cf2e93c1388c8d7520eeff097262\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
+129            android:value="@integer/google_play_services_version" />
+129-->[com.google.android.gms:play-services-basement:17.1.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\4575cf2e93c1388c8d7520eeff097262\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+130
+131        <provider
+131-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\e1f238ccbca3e1bc5d94d901c74e9482\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+132            android:name="androidx.startup.InitializationProvider"
+132-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\e1f238ccbca3e1bc5d94d901c74e9482\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+133            android:authorities="com.hpoly.ergasia_2.androidx-startup"
+133-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\e1f238ccbca3e1bc5d94d901c74e9482\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+134            android:exported="false" >
+134-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\e1f238ccbca3e1bc5d94d901c74e9482\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+135            <meta-data
+135-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\e1f238ccbca3e1bc5d94d901c74e9482\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+136                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+136-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\e1f238ccbca3e1bc5d94d901c74e9482\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+137                android:value="androidx.startup" />
+137-->[androidx.emoji2:emoji2:1.0.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\e1f238ccbca3e1bc5d94d901c74e9482\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+138            <meta-data
+138-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\5c6d8e5799e0e51cdc0509ca847a2687\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+139                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+139-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\5c6d8e5799e0e51cdc0509ca847a2687\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+140                android:value="androidx.startup" />
+140-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\HPoly.DESKTOP-NR409IG\.gradle\caches\transforms-3\5c6d8e5799e0e51cdc0509ca847a2687\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+141        </provider>
+142    </application>
+143
+144</manifest>

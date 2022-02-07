@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login_user.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\activity_login_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_cat_profile.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\nav_cat_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_my_cart.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\fragment_my_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\home_cat_books.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\home_cat_books.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_category.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detailed.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\activity_detailed.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_all_books.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\view_all_books.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\my_book_cart.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\my_book_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recommended_books.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\recommended_books.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_cat_book.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\nav_cat_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popular_books.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\popular_books.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register_user.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\activity_register_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_view_all.xml",
+        "source": "C:\\Users\\HPoly.DESKTOP-NR409IG\\AndroidStudioProjects\\ergasia_2\\app\\src\\main\\res\\layout\\activity_view_all.xml"
+    }
+]
